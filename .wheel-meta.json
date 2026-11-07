@@ -1,0 +1,22 @@
+{
+  "wheel_id": 797,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-155",
+  "project": "roof-repair-tampa-glossary-265307e79f9184c4ff8043e3207fe91d6418",
+  "parent_t1_ref": "roofcontractortampa-009",
+  "node_role": "buffer",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa glossary",
+  "intended_url": "https://sitesau.github.io/roofcontractortampa-155/",
+  "tier": "T2",
+  "writeback_nonce": "10cb96a9c48a5791",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/roof-repair-tampa-roofcontractortampa-009/",
+      "anchor": "Roof Repair Tampa: Practical Scope Questions",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
